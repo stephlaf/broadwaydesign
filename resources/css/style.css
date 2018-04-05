@@ -1,13 +1,46 @@
+h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+p{
+  font-size: 14px;
+}
 .fullpage{
   text-align: center;
   font-family: Helvetica;
 }
-
 .header{
     color: white;
     background-image: url(/Users/Laf1BUp/Dropbox/zStéphane/Codecademy/Projects/Broadway/resources/images/the-flatiron-building.png);
 }
+.list{
+  font-size: 18px;
+  color: white;
+  list-style-type: none;
+  text-align: center;
+}
+.newyork{
+  color: white;
+  background-image: url(/Users/Laf1BUp/Dropbox/zStéphane/Codecademy/Projects/Broadway/resources/images/the-flatiron-building.png);
+}
+
 #title{
   font-size: 70px;
   font-weight: bold;
+}
+#home{
+
+}
+#process{
+  font-size: 32px;
+  font-weight: bold;
+}
+#work{
+
+}
+#team{
+
+}
+#contact{
+
 }
