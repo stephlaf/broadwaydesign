@@ -1,3 +1,13 @@
 .fullpage{
   text-align: center;
+  font-family: Helvetica;
+}
+
+.header{
+    color: white;
+    background-image: url(/Users/Laf1BUp/Dropbox/zStéphane/Codecademy/Projects/Broadway/resources/images/the-flatiron-building.png);
+}
+#title{
+  font-size: 70px;
+  font-weight: bold;
 }
