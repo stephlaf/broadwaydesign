@@ -11,22 +11,37 @@ p{
 }
 .header{
     color: white;
-    background-image: url(/Users/Laf1BUp/Dropbox/zStéphane/Codecademy/Projects/Broadway/resources/images/the-flatiron-building.png);
+    background-image: url(../images/the-flatiron-building.png);
+    background-position: 80%;
+    background-repeat: no-repeat;
 }
 .list{
   font-size: 18px;
   color: white;
+  font-weight: bold;
   list-style-type: none;
   text-align: center;
 }
 .newyork{
   color: white;
-  background-image: url(/Users/Laf1BUp/Dropbox/zStéphane/Codecademy/Projects/Broadway/resources/images/the-flatiron-building.png);
+  background-image: url(../images/the-flatiron-building.png);
+  background-position: 80%;
+  background-repeat: no-repeat;
+}
+.copyright{
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+.footer{
+  font-size: 18px;
 }
 
 #title{
   font-size: 70px;
   font-weight: bold;
+  padding-top: 30px;
 }
 #home{
 
